@@ -1,4 +1,4 @@
-﻿# Projeto_Python
+﻿# Projeto_Python_JavaScript
 🚀 Novo Projeto
 
 Bem-vindos ao nosso projeto de Python! Este repositório foi criado para desenvolver nossos conhecimentos em programação, praticar o trabalho em equipe e criar projetos juntos.
