@@ -29,9 +29,13 @@ GitHub
 Visual Studio Code (VS Code)
 
 Projeto_Python/
+
 ├── README.md
+
 ├── main.py
+
 └── .gitignore
+
 A estrutura poderá ser modificada conforme o projeto for evoluindo.
 
 A estrutura poderá ser modificada conforme o projeto for evoluindo.
